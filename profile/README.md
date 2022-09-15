@@ -7,4 +7,4 @@ How we achieve this?
 - All Data is encrypted (any data can be request by the developer to be secured)
 - Only the appropriate users' credentials can unlock the cryptosystem (this protects you from server-side attacks)
 
-This gives you without ever needing to even notice it! It protects you from server side attacks.
+This gives you zero knowledge security without ever needing to even notice it! It protects you from server side attacks.
