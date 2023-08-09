@@ -1,6 +1,6 @@
 # Krptn
 
-A user authentication and access management system (IAM) with [Zero Knowledge security](https://www.krptn.dev/news/zero-knowledge/). It is available as a python extension module.
+A user authentication and access management system (IAM) with [data encryption at rest derived from user credentials](https://www.krptn.dev/news/zero-knowledge/). It is available as a python extension module.
 
 How we achieve this?
 
